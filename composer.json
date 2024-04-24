@@ -12,14 +12,14 @@
         "php": "^7.3|^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^7.2",
-        "illuminate/config": "8.*",
-        "illuminate/contracts": "8.*",
-        "illuminate/routing": "8.*",
-        "illuminate/support": "8.*",
-        "illuminate/validation": "8.*"
+        "illuminate/config": "5.*",
+        "illuminate/contracts": "5.*",
+        "illuminate/routing": "5.*",
+        "illuminate/support": "5.*",
+        "illuminate/validation": "5.*"
     },
     "require-dev": {
-        "laravel/laravel": "8.*",
+        "laravel/laravel": "5.*",
         "phpunit/phpunit": "^9.5.20",
         "roave/security-advisories": "dev-master"
     },
